@@ -1,0 +1,15 @@
+.jumbotron {
+    background-color: #bebebeec;
+    padding-top: 4rem;
+    padding-bottom: 2rem;
+}
+
+.rounded-circle {
+    border: 3px solid;
+    border-color: cadetblue;
+
+}
+
+.gallery {
+    background-color: #bebebeec;
+}
